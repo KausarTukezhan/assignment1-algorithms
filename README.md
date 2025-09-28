@@ -10,23 +10,36 @@
 ## 2. Project Structure
 
 src/main/java/algorithms/
+
 ├── ClosestPair.java
+
 ├── DeterministicSelect.java
+
 ├── MergeSort.java
+
 ├── QuickSort.java
+
 ├── Metrics.java
+
 └── Main.java
 
 src/test/java/algorithms/
+
 ├── MergeSortTest.java
+
 ├── QuickSortTest.java
+
 ├── DeterministicSelectTest.java
+
 └── ClosestPairTest.java
 
 images/
-├── time_vs_n.png
-├── comparisons_vs_n.png
-└── recursion_depth_vs_n.png
+
+├── time\_vs\_n.png
+
+├── comparisons\_vs\_n.png
+
+└── recursion\_depth\_vs\_n.png
 
 - Algorithms — implementations of all algorithms.
 - Metrics.java — collects execution metrics: time, comparisons, recursion depth.
